@@ -1,4 +1,4 @@
-# 📁 Folder-to-Text Converter
+# 📁 Folder-Structure-to-Text Converter
 
 A powerful Node.js utility to convert folder structures to text files and vice versa! 🔄 This tool helps you:
 
